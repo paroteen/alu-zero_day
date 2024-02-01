@@ -1,1 +1,1 @@
-i am now ALU student in BSE
+My first readme
